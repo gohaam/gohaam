@@ -38,7 +38,7 @@ const ilham = {
 
 <h2>:busts_in_silhouette: How to reach me</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/igo-fatahillah-ilham?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igo-fatahillah-ilham/)](https://www.linkedin.com/in/igo-fatahillah-ilham/)
+[![Linkedin Badge](https://img.shields.io/badge/igo-fatahillah-ilham?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igo-fatahillah-ilham-4789932a5)](https://www.linkedin.com/in/igo-fatahillah-ilham/](https://www.linkedin.com/in/igo-fatahillah-ilham-4789932a5)
 [![Gmail Badge](https://img.shields.io/badge/-goo.fatahillah-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:goo.fatahillah@gmail.com)](mailto:goo.fatahillah@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-gohaam-black?style=flat&logo=github&logoColor=white&link=https://github.com/gohaam/)](https://github.com/gohaam)
 
